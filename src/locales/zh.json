@@ -1,5 +1,5 @@
 {   
-  "welcome": "Welcome to ETC Grants!",
+  "welcome": "Welcome to Chinese ETC Grants!",
   "ref": {
     "home": "/",
     "blog": "blog",
@@ -11,15 +11,15 @@
     "reasons-to-own-a-cat": "blog/reasons-to-own-a-cat"
   },
   "menu": {
-    "overview": "Overview",
-    "requirements": "Requirements",
-    "decisionmaking": "Decision Making",
-    "round1": "Round 1",
-    "blog": "Blog"
+    "overview": "CNOverview",
+    "requirements": "CNReq",
+    "decisionmaking": "CNDecisions",
+    "round1": "CNRound 1",
+    "blog": "CNBlog"
   },
   "overview": {
-    "title": "ETC Grants Program Overview",
-    "subheading": "Ethereum Classic in 2022",
-    "text": "text"
+    "title": "CN ETC Grants Overview",
+    "subheading": "CN Subheading",
+    "text": "CN text"
   }
 }

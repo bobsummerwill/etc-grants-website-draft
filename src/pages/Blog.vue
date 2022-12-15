@@ -29,11 +29,8 @@
   "en": {
     "subtitle": "Publications in English"
   },
-  "it": {
-    "subtitle": "Pubblicazioni in Italiano"
-  },
-  "pt": {
-    "subtitle": "Publicações em Portugues"
+  "zh": {
+    "subtitle": "Publications in Chinese"
   }
 }
 </i18n>

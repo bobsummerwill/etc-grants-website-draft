@@ -1,14 +1,17 @@
 <template>
   <nav class="nav">
     <g-link class="nav__link" :to="$tp('/')">Home</g-link>
-    <g-link class="nav__link" :to="$tp($t('ref.about'))">{{
-      $t("menu.about")
+    <g-link class="nav__link" :to="$tp($t('ref.overview'))">{{
+      $t("menu.overview")
     }}</g-link>
-    <g-link class="nav__link" :to="$tp($t('ref.features'))">{{
-      $t("menu.features")
+    <g-link class="nav__link" :to="$tp($t('ref.requirements'))">{{
+      $t("menu.requirements")
     }}</g-link>
-    <g-link class="nav__link" :to="$tp($t('ref.postcss'))">{{
-      $t("menu.postcss")
+    <g-link class="nav__link" :to="$tp($t('ref.decisionmaking'))">{{
+      $t("menu.decisionmaking")
+    }}</g-link>
+    <g-link class="nav__link" :to="$tp($t('ref.round1'))">{{
+      $t("menu.round1")
     }}</g-link>
     <g-link class="nav__link" :to="$tp($t('ref.blog'))">{{
       $t("menu.blog")

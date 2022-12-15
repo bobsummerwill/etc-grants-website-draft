@@ -7,82 +7,81 @@ module.exports = {
       }
     },
     {
-      path: '/en/about-us/',
-      component: './src/pages/About.vue',
-      context: {
-        ref: 'about'
-      }
-    },
-    {
-      path: '/en/postcss/',
-      component: './src/pages/PostCSS.vue',
-      context: {
-        ref: 'postcss'
-      }
-    },
-    {
       path: '/en/blog',
       component: './src/pages/Blog.vue',
       context: {
         ref: 'blog'
       }
+    },
+    {
+      path: '/en/overview',
+      component: './src/pages/Overview.vue',
+      context: {
+        ref: 'overview'
+      }
+    },
+    {
+      path: '/en/requirements',
+      component: './src/pages/Requirements.vue',
+      context: {
+        ref: 'requirements'
+      }
+    },
+    {
+      path: '/en/decisionmaking',
+      component: './src/pages/DecisionMaking.vue',
+      context: {
+        ref: 'decisionmaking'
+      }
+    },
+    {
+      path: '/en/round1',
+      component: './src/pages/Round1.vue',
+      context: {
+        ref: 'round1'
+      }
     }
   ],
-  "it": [{
-      path: '/it',
+  "zh": [{
+      path: '/zh',
       component: './src/pages/Index.vue',
       context: {
         ref: 'home'
       }
     },
     {
-      path: '/it/chi-siamo/',
-      component: './src/pages/About.vue',
-      context: {
-        ref: 'about'
-      }
-    },
-    {
-      path: '/it/postcss/',
-      component: './src/pages/PostCSS.vue',
-      context: {
-        ref: 'postcss'
-      }
-    },
-    {
-      path: '/it/blog',
+      path: '/zh/blog',
       component: './src/pages/Blog.vue',
       context: {
         ref: 'blog'
       }
-    }
-  ],
-  "pt": [{
-      path: '/pt',
-      component: './src/pages/Index.vue',
+    },
+    {
+      path: '/zh/overview',
+      component: './src/pages/Overview.vue',
       context: {
-        ref: 'home'
+        ref: 'overview'
       }
     },
     {
-      path: '/pt/quem-somos/',
-      component: './src/pages/About.vue',
+      path: '/zh/requirements',
+      component: './src/pages/Requirements.vue',
       context: {
-        ref: 'about'
+        ref: 'requirements'
       }
     },
     {
-      path: '/pt/postcss/',
-      component: './src/pages/PostCSS.vue',
+      path: '/zh/decisionmaking',
+      component: './src/pages/DecisionMaking.vue',
       context: {
-        ref: 'postcss'
+        ref: 'decisionmaking'
       }
     },
     {
-      path: '/pt/blog',
-      component: './src/pages/Blog.vue',
+      path: '/zh/round1',
+      component: './src/pages/Round1.vue',
       context: {
-        ref: 'blog'
+        ref: 'round1'
       }
     }
   ]

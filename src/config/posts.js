@@ -6,22 +6,13 @@ const en = {
   }
 };
 
-const it = {
+const zh = {
   use: "@gridsome/source-filesystem",
   options: {
     typeName: "Post",
-    path: "./src/content/posts/**/*.it.md"
-  }
-};
-
-const pt = {
-  use: "@gridsome/source-filesystem",
-  options: {
-    typeName: "Post",
-    path: "./src/content/posts/**/*.pt.md"
+    path: "./src/content/posts/**/*.zh.md"
   }
 };
 
 module.exports.en = en;
-module.exports.it = it;
-module.exports.pt = pt;
+module.exports.zh = zh;

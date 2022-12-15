@@ -3,8 +3,7 @@ module.exports = {
   options: {
     locales: [
       'en',
-      'it',
-      'pt'
+      'zh'
     ],
     fallbackLocale: 'en',
     defaultLocale: 'en',

@@ -15,7 +15,6 @@ module.exports = {
   plugins: [
     i18n, // toggle i18n support
     posts.en,
-    posts.it,
-    posts.pt
+    posts.zh
   ]
 };

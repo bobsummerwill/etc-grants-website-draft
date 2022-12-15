@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/*
+
+Removed custom fonts for the time being.
+Might want to switch to Merriweather and Open Sans, as per the ETC Cooperative style guide.
+
 h1 {
   @apply font-atma
 }
@@ -9,3 +14,4 @@ h1 {
 p {
   @apply font-lato  
 }
+*/

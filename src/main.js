@@ -11,10 +11,8 @@ export default function (Vue, { router, head, isClient, appOptions }) {
   // Allow for hot-reload of translations
   appOptions.i18n.setLocaleMessage('en',
   require('./locales/en.json'))
-  appOptions.i18n.setLocaleMessage('it',
-  require('./locales/it.json'))  
-  appOptions.i18n.setLocaleMessage('pt',
-  require('./locales/pt.json'))  
+  appOptions.i18n.setLocaleMessage('zh',
+  require('./locales/zh.json'))  
   
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
