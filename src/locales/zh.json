@@ -1,5 +1,4 @@
 {   
-  "welcome": "Welcome to Chinese ETC Grants!",
   "ref": {
     "home": "/",
     "blog": "blog",
@@ -11,11 +10,23 @@
     "reasons-to-own-a-cat": "blog/reasons-to-own-a-cat"
   },
   "menu": {
-    "overview": "CNOverview",
-    "requirements": "CNReq",
-    "decisionmaking": "CNDecisions",
-    "round1": "CNRound 1",
-    "blog": "CNBlog"
+    "home": "主页",
+    "overview": "概述",
+    "requirements": "要求",
+    "decisionmaking": "决策",
+    "round1": "第一轮",
+    "blog": "博客"
+  },
+  "home": {
+    "welcome": "欢迎加入ETC资助计划！",
+    "overviewtitle": "概述",
+    "overviewtext": "以太坊经典赠款计划的概述，由蚂蚁矿池和以太坊经典合作社资助。",
+    "requirementstitle": "要求是什么?",
+    "requirementstext": "资助申请人在申请前需要知道什么?",
+    "decisionmakingtitle": "决策",
+    "decisionmakingtext": "资助计划的决策如何运作?",
+    "round1title": "如何申请第一轮赠款",
+    "round1text": "第一轮赠款的细节于2022年11月启动。"
   },
   "overview": {
     "title": "CN ETC Grants Overview",

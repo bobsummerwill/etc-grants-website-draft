@@ -3,28 +3,27 @@
     <div>
       <!-- Learn how to use images here: https://gridsome.org/docs/images -->
 
-      <h1>{{ $t("welcome") }}</h1>
+      <h1>{{ $t("home.welcome") }}</h1>
 
-      <a href="overview"><h3>Overview</h3></a>
+      <a href="overview"><h3>{{ $t("home.overviewtitle") }}</h3></a>
       <p>
-        An overview of the Ethereum Classic Grants program, funded by Antpool and ETC Cooperative.
+        {{ $t("home.overviewtext") }}
       </p>
 
-      <a href="requirements"><h3>What are the requirements?</h3></a>
+      <a href="requirements"><h3>{{ $t("home.requirementstitle") }}</h3></a>
       <p>
-        What do grant applicants need to know before applying?
+        {{ $t("home.requirementstext") }}
       </p>
 
-      <a href="decisionmaking"><h3>Decision Making</h3></a>
+      <a href="decisionmaking"><h3>{{ $t("home.decisionmakingtitle") }}</h3></a>
       <p>
-        How will the decision making work for the grants program?
+        {{ $t("home.decisionmakingtext") }}
       </p>
 
-      <a href="round1"><h3>How to apply for Round 1</h3></a>
+      <a href="round1"><h3>{{ $t("home.round1title") }}</h3></a>
       <p>
-        Details on the first round of grants, launched in November 2022.
+        {{ $t("home.round1text") }}
       </p>
-
 
       <g-image src="~/assets/images/catty.jpg" width="900" />
       
@@ -61,7 +60,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Hello, world!",
+    title: "Home",
   },
 };
 </script>

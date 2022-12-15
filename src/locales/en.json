@@ -11,14 +11,26 @@
     "reasons-to-own-a-cat": "blog/reasons-to-own-a-cat"
   },
   "menu": {
+    "home": "Home",
     "overview": "Overview",
     "requirements": "Requirements",
     "decisionmaking": "Decision Making",
     "round1": "Round 1",
     "blog": "Blog"
   },
+  "home": {
+    "welcome": "Welcome to ETC Grants!",
+    "overviewtitle": "Overview",
+    "overviewtext": "An overview of the Ethereum Classic Grants program, funded by Antpool and ETC Cooperative.",
+    "requirementstitle": "Requirements",
+    "requirementstext": "An overview of the Ethereum Classic Grants program, funded by Antpool and ETC Cooperative.",
+    "decisionmakingtitle": "Decision Making",
+    "decisionmakingtext": "An overview of the Ethereum Classic Grants program, funded by Antpool and ETC Cooperative.",
+    "round1title": "Round 1",
+    "round1text": "An overview of the Ethereum Classic Grants program, funded by Antpool and ETC Cooperative."
+  },
   "overview": {
-    "title": "ETC Grants Program Overview",
+    "title": "ETC Grants Overview",
     "subheading": "Ethereum Classic in 2022",
     "text": "text"
   }

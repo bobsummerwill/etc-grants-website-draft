@@ -1,6 +1,8 @@
 <template>
   <nav class="nav">
-    <g-link class="nav__link" :to="$tp('/')">Home</g-link>
+    <g-link class="nav__link" :to="$tp('/')">{{
+      $t("menu.home")
+    }}</g-link>
     <g-link class="nav__link" :to="$tp($t('ref.overview'))">{{
       $t("menu.overview")
     }}</g-link>

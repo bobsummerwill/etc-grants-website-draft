@@ -18,7 +18,7 @@
       and only a <a href="https://etcplanets.com/">few NFT projects</a>.
     </p>
     <p>
-      <img src="https://deploy-preview-118--jocular-bienenstitch-b37dca.netlify.app/table-of-top-pow-chains.png"/>
+      <img src="/images/table-of-top-pow-chains.png"/>
     </p>
     <p>
       We aim to revitalize the ecosystem by providing "no strings attached"
