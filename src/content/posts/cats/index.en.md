@@ -5,6 +5,6 @@ ref: "cats-are-cute"
 slug: "cats-are-cute"
 ---
 
-## Cats are lovely beings
+## Cats are very lovely beings
 
 ![A cute cat](./cutecat.webp)
