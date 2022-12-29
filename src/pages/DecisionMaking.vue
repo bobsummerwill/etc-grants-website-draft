@@ -13,7 +13,9 @@
           to participate in the decision making process as well.
         </p>
         <p>
-          Voting will be managed using Snapshot (see <a href="https://snapshot.org/#/litecoin-antpool-dao.eth">Litecoin/Antpool voting</a> for an example).
+          Voting will be recorded using Snapshot (see <a href="https://snapshot.org/#/etcgrantsdao.eth">etcgrantsdao.eth</a>),
+          in a similar manner to the existing Snapshot instance used
+          for <a href="https://snapshot.org/#/litecoin-antpool-dao.eth">Litecoin/Antpool voting</a>.
         </p>
         <p>
           Interestingly enough it looks like there <a href="https://snapshot.org/#/?network=61">are a few</a> ETC snapshot polls already,
