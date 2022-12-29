@@ -13,13 +13,10 @@
 
       <h2>What is the timeline for applications?</h2>
       <p>
-        The first round of ETC Grants was opened on Thursday 10th November 2022,
-        when the program was announced on stage by Xmei Lin, Head of Marketing for
-        Bitmain.
-        The application process will be open until end-of-day Sunday 4th
-        December 2022 (so applications are open for just over 3 weeks).
-        The projects receiving funding will be announced on Thursday 15th
-        December and payments will be made to the recipients that day.
+        The grants process will be open for applications at some point in
+        January 2023.  That application process will remain open through February,
+        March and April.  Decisions on which grants will be funded will be made in May.
+        Those decisions will be made public and funds disbursed in June.
       </p>
 
       <h2>How much funding is available?</h2>
@@ -36,7 +33,7 @@
         then fill in this <Link to="../application-form">application form</Link>.
         All ongoing communication will be via this website and
         on the associated <a href="https://t.me/+HFT390x76c4zYWRh">Telegram</a> channel.
-        Grant recipients will funded in $ETC, to aligh incentives with the network.
+        Grant recipients will be funded in $ETC, to aligh incentives with the network.
       </p>
 
     </div>
