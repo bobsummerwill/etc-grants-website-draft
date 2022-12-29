@@ -5,7 +5,7 @@
     <h1>{{ $t("overview.title") }}</h1>
     <h2>{{ $t('overview.subheading')}}</h2>
     <p>
-      The ETC Grants program was launched in November 2022 to support the growth
+      The ETC Grants program was announced in November 2022 to support the growth
       of the <a href="https://ethereumclassic.org">Ethereum Classic</a> ecosystem.
     </p>
     <p>
@@ -13,13 +13,14 @@
       contract platform, but its application ecosystem does not yet reflect
       that value proposition.  It is listed on <a href="https://coinmarketcap.com/currencies/ethereum-classic/markets/">every major exchange</a> and
       hundreds of millions of dollars of $ETC are traded daily but there
-      are very <a href="https://ethereumclassic.org/services/apps">few decentralized applications</a> using the platform and only
-      a very small amount of <a href="https://defillama.com/chain/EthereumClassic">TVL</a> in its Defi ecosystem
-      and only a <a href="https://etcplanets.com/">few NFT projects</a>.
+      are very <a href="https://ethereumclassic.org/services/apps">few decentralized applications</a> using the platform,
+      only a very small amount of <a href="https://defillama.com/chain/EthereumClassic">TVL</a> in its Defi ecosystem
+      and <a href="https://etcplanets.com/">few NFT projects</a>.
     </p>
     <p>
       <img src="/images/table-of-top-pow-chains.png"/>
     </p>
+    <i>(Data above from 27th December 2022)</i>
     <p>
       We aim to revitalize the ecosystem by providing "no strings attached"
       funding to promising projects building on Ethereum Classic.
@@ -31,9 +32,9 @@
       were committing $10M USD for funding of the Ethereum Classic ecosystem
       in July 2022.
       Half of that amount is being held as Tether (USTD) in a
-      Safe multisig (<a href="https://app.safe.global/eth:0xA208013A926718B43A6609e29691783833dcE8D6/home">0xA208...E8D6</a>) on
+      Safe multisig (<a href="https://app.safe.global/eth:0xA208013A926718B43A6609e29691783833dcE8D6/balances">0xA208...E8D6</a>) on
       the Ethereum mainnet and the other half was used to purchase $ETC
-      in November 2022, which is being held in a Safe multisig (<a href="https://multisig.etccooperative.org/app/ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82/home">0x3db3...2f82</a>) on ETC mainnet.
+      in November 2022, which is being held in a Safe multisig (<a href="https://multisig.etccooperative.org/app/ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82/balances">0x3db3...2f82</a>) on ETC mainnet.
     </p>
     <p>
       The ETC Cooperative had $250K USD <a href="https://etccooperative.org/posts/2022-04-12-2021-retrospective-2022-budget-roadmap">budgeted</a> for grants during calendar year
