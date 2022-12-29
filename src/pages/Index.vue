@@ -24,8 +24,6 @@
       <p>
         {{ $t("home.round1text") }}
       </p>
-
-      <g-image src="~/assets/images/catty.jpg" width="900" />
       
     </div>
 
