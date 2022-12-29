@@ -17,7 +17,7 @@
       <p>
         All projects must make their "outputs" available using permissive open
         source licensing (Apache 2, Mozilla MPL 2 or Creative Commons).
-        Funding will not be provided for projects seeking to build propriatory
+        Funding will not be provided for projects seeking to build proprietary
         solutions.  The copyright will remain with the authors, but licensing
         must be permissive and patents must not be filed on the outputs of
         these projects.
