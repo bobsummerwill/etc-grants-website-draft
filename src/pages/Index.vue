@@ -9,7 +9,7 @@
       </p>
       <p>
         {{ $t("tldr.paragraph2") }}
-        <b><a href="$t('tldr.apply-url')">{{ $t("tldr.apply-text") }}</a></b>
+        <b><a :href="$t('tldr.apply-url')">{{ $t("tldr.apply-text") }}</a></b>
       </p>
     </div> <!-- /TL;DR-->
 
