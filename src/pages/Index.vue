@@ -3,14 +3,13 @@
       <!-- Learn how to use images here: https://gridsome.org/docs/images -->
 
     <div> <!-- TL;DR-->
-      <h1>Apply for an ETC grant</h1>
+      <h1>{{ $t("tldr.title") }}</h1>
       <p>
-        Do you have what it takes to contribute to the growth of the
-        Ethereum Classic ecosystem?
+        {{ $t("tldr.paragraph1") }}
       </p>
       <p>
-        Need funding?
-        <b><a href="https://airtable.com/shr3VMqyLd1HX5ws4">Apply here!</a></b>
+        {{ $t("tldr.paragraph2") }}
+        <b><a href="$t('tldr.apply-url')">{{ $t("tldr.apply-text") }}</a></b>
       </p>
     </div> <!-- /TL;DR-->
 

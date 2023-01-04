@@ -33,5 +33,12 @@
     "title": "About ETC Grants DAO",
     "subheading": "Ethereum Classic in 2022",
     "text": "text"
+  },
+  "tldr": {
+    "title": "Apply for an ETC grant",
+    "paragraph1": "Do you have what it takes to contribute to the growth of the Ethereum Classic ecosystem?",
+    "paragraph2": "Need funding?",
+    "apply-text": "Apply here!",
+    "apply-url": "https://airtable.com/shr3VMqyLd1HX5ws4"
   }
 }

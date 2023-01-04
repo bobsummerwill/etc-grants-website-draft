@@ -32,5 +32,12 @@
     "title": "CN ETC Grants Overview",
     "subheading": "CN Subheading",
     "text": "CN text"
+  },
+  "tldr": {
+    "title": "ETC奖金申请",
+    "paragraph1": "您是否具备为以太坊经典生态系统的发展做出贡献的条件?",
+    "paragraph2": "如果您需要申请助款或奖金，",
+    "apply-text": "欢迎从这里申请！",
+    "apply-url": "https://airtable.com/shrM1zdjtPbxbNQge"
   }
 }
