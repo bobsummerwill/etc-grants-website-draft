@@ -1,5 +1,6 @@
 <template>
   <nav class="nav">
+    <!--
     <g-link class="nav__link" :to="$tp('/')">{{
       $t("menu.home")
     }}</g-link>
@@ -17,7 +18,7 @@
     }}</g-link>
     <g-link class="nav__link" :to="$tp($t('ref.blog'))">{{
       $t("menu.blog")
-    }}</g-link>
+    }}</g-link>-->
   </nav>
 </template>
 
