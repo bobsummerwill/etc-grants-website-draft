@@ -2,13 +2,16 @@
   <Layout>
       <!-- Learn how to use images here: https://gridsome.org/docs/images -->
 
-    <div> <!-- Overview section-->
-
-      <h1>How do I apply for a grant?</h1>
+    <div> <!-- TL;DR-->
+      <h1>Apply for an ETC grant</h1>
       <p>
+        Do you have what it takes to contribute to the growth of the ETC ecosystem and need funding?
         <b><a href="https://airtable.com/shr3VMqyLd1HX5ws4">Apply here!</a></b>
       </p>
+    </div> <!-- /TL;DR-->
 
+    <div> <!-- Overview section-->
+      <hr/>
       <h1>{{ $t("overview.title") }}</h1>
       <h2>{{ $t('overview.subheading')}}</h2>
       <p>
@@ -69,7 +72,9 @@
       </p>
     </div>
 
+    <a id="Requirements"/>
     <div> <!-- Requirements -->
+      <hr/>
       <h1>What do grant applications need to know?</h1>
 
       <h2>No Retroactive Funding</h2>
@@ -114,6 +119,7 @@
     </div> <!-- /Requirements -->
 
     <div> <!-- Decision making -->
+      <hr/>
       <h1>Decision making for the ETC Grants Program</h1>
 
       <h2>Who will be making the decisions?</h2>
@@ -130,32 +136,21 @@
           for <a href="https://snapshot.org/#/litecoin-antpool-dao.eth">Litecoin/Antpool voting</a>.
         </p>
         <p>
-          Interestingly enough it looks like there <a href="https://snapshot.org/#/?network=61">are a few</a> ETC snapshot polls already,
-          so it should be easy enough to add one of our own, with a nested "treasury" entry
-          pointing to the ETC Safe multisig.
-        </p>
-        <p>
           There is no specific plan to open up the decision making progress to the
           broader ETC community at the time of writing.  Longer term it <i>might</i> make
           sense to move, step-by-step, towards an open DAO structure where all ETC
           token holders have the option to participate in the decision making process.
       </p>
 
-      <h2>Standing committee members</h2>
+      <h2>Committee members - round 1</h2>
       <ul>
-        <li>Bitmain (Xmei, other?)</li>
-        <li>Antpool (Leon, Lucien, Rory, Lilian?)</li>
-        <li>ETC Cooperative (Bob, Alison?)</li>
-        <li>Grayscale (Craig?)</li>
-      </ul>
-
-      <h2>Rotating committee members</h2>
-      <ul>
-        <li>TBD</li>
-        <li>TBD</li>
+        <li>Bitmain (Xmei?)</li>
+        <li>Antpool (Lilian?)</li>
+        <li>ETC Cooperative (Bob?)</li>
       </ul>
     </div> <!-- /Decision making -->
 
+    <hr/>
     <div> <!-- Round 1 -->
       <h1>Round 1 of the ETC Grants Program</h1>
       <p>
@@ -181,13 +176,36 @@
         $50K USD per round.
       </p>
 
+      <h2>What kind of projects are you looking to fund?</h2>
+      <p>
+        Here are some ideas of projects which are likely to be well received.
+        If you have a proposal which does not quite fit then that is fine too.
+      </p>
+      <p>
+        - Native stablecoins (DAI, RAI, RICO, other)<br/>
+        - Bringing first-class support for key Ethereum projects to ETC<br/>
+        - Supporting key Ethereum project deployments on ETC<br/>
+        - Privacy solutions<br/>
+        - Oracle solutions<br/>
+        - Lending protocols<br/>
+        - Bridges and interoperability<br/>
+        - Atomic swaps<br/>
+        - Educational content<br/>
+        - Meetups and events<br/>
+        - Podcasts<br/>
+        - Safe apps<br/>
+        - MetaMask snaps<br/>
+        - Projects supporting self-custody<br/>
+        - Projects supporting running your own node<br/>
+      </p>
+
       <h2>How do I apply?</h2>
       <p>
-        Please read the <Link to="/requirements">requirements page</Link> and
-        then fill in this <Link to="../application-form">application form</Link>.
+        <b><a href="https://airtable.com/shr3VMqyLd1HX5ws4">Apply here!</a></b>
+      </p>
+      <p>
         All ongoing communication will be via this website and
         on the associated <a href="https://t.me/+HFT390x76c4zYWRh">Telegram</a> channel.
-        Grant recipients will be funded in $ETC, to aligh incentives with the network.
       </p>
     </div> <!-- /Round 1 -->
 
