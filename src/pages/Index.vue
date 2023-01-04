@@ -5,7 +5,11 @@
     <div> <!-- TL;DR-->
       <h1>Apply for an ETC grant</h1>
       <p>
-        Do you have what it takes to contribute to the growth of the ETC ecosystem and need funding?
+        Do you have what it takes to contribute to the growth of the
+        Ethereum Classic ecosystem?
+      </p>
+      <p>
+        Need funding?
         <b><a href="https://airtable.com/shr3VMqyLd1HX5ws4">Apply here!</a></b>
       </p>
     </div> <!-- /TL;DR-->
@@ -47,8 +51,9 @@
         in November 2022, which is being held in a Safe multisig (<a href="https://multisig.etccooperative.org/app/ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82/balances">0x3db3...2f82</a>) on ETC mainnet.
       </p>
       <p>
-        The ETC Cooperative had $250K USD <a href="https://etccooperative.org/posts/2022-04-12-2021-retrospective-2022-budget-roadmap">budgeted</a> for grants during calendar year
-        2022 and will be contributing those funds into the program as well.
+        The <a href="https://etccooperative.org">ETC Cooperative</a> had $250K USD <a href="https://etccooperative.org/posts/2022-04-12-2021-retrospective-2022-budget-roadmap">budgeted</a> for grants during calendar year
+        2022 and will be contributing those funds into the program as well. Additional funds
+        will be allocated by the Cooperative each calendar year.
       </p>
 
       <h2>How is it going to work?</h2>
@@ -77,6 +82,25 @@
       <hr/>
       <h1>What do grant applications need to know?</h1>
 
+      <h2>English or Chinese</h2>
+      <p>
+        The entire ETC Grants DAO process has been built with equal access
+        in Chinese and English as a primary requirement.  This website,
+        application process, display of proposals and all other elements
+        of the process will be visible in both languages.  We really want
+        to open up accessibility to Ethereum Classic for the Chinese-speaking
+        community, and welcome applications from that demographic, even if
+        the outputs of those proposals are only applicable to a Chinese-speaking
+        audience.  That is no different than existing projects where the value
+        only accrues to English speakers.
+      </p>
+      <p>
+        We will be translating all of the applications from English to Chinese
+        and visa-versa so that speakers of either language are able to see
+        all of the applications.  The feedback from the Committee on projects
+        and final fund assignments will also be available in both languages.
+      </p>
+
       <h2>No Retroactive Funding</h2>
       <p>
         We will <b>not be considering</b> applications seeking to retroactively
@@ -86,14 +110,48 @@
         participants.
       </p>
 
-      <h2>Projects must be open source</h2>
+      <h2>Projects must be permissively licensed open source</h2>
       <p>
         All projects must make their "outputs" available using permissive open
-        source licensing (Apache 2, Mozilla MPL 2 or Creative Commons).
+        source licensing, with only the following licenses being acceptable:
+      </p>
+      <p>
+        - <a href="https://en.wikipedia.org/wiki/Apache_License">Apache 2.0</a> - good for source code<br/>
+        - <a href="https://en.wikipedia.org/wiki/Mozilla_Public_License">Mozilla MPL 2.0</a> - good for source code (Javascript friendly)<br/>
+        - <a href="https://en.wikipedia.org/wiki/Creative_Commons_license">Creative Commons (CC-BY-SA)</a> - good for documentation<br/>
+      </p>
+      <p>
         Funding will not be provided for projects seeking to build proprietary
         solutions.  The copyright will remain with the authors, but licensing
         must be permissive and patents must not be filed on the outputs of
-        these projects.
+        these projects.  Permissive licensing maximizes the number of ways in
+        which the results of the projects can be used while protecting against
+        patent trolling and lack of accreditation with these specific licenses
+        choices.
+      </p>
+
+      <h2>Applicants will be subject to KYC</h2>
+      <p>
+        For regulatory compliance, applicants for the grants process will
+        be subject to KYC (know your customer) checks through a third party
+        agency.  None of that information will be held by the parties
+        participating in the ETC Grants DAO processes.  Real names or other
+        PII (personally identifying information) will not be made public
+        unless applications choose to make that information publicly available
+        on their application (ie. work history, past projects).
+      </p>
+
+      <h2>All applications will be publicly visible</h2>
+      <p>
+        All applications will be visible to the public on the website, so
+        that other applicants can calibrate their own applications and get
+        a good idea of the "playing field".  This will become especially
+        important in later rounds.
+      </p>
+      <p>
+        Here are the <a href="https://grants.zfnd.org/proposals">ZCash Foundation proposals</a> as
+        an example of a desired end-state for the ETC program, though we
+        are likely to have something more primitive at first.
       </p>
 
       <h2>Progress Reports</h2>
@@ -153,30 +211,13 @@
     <hr/>
     <div> <!-- Round 1 -->
       <h1>Round 1 of the ETC Grants Program</h1>
+      <h2>What kind of projects are you looking to fund?</h2>
       <p>
         We are seeking interesting and innovative dapps, along with
         foundational projects for enriching the ETC Defi ecosystem.  We also
         welcome proposals related to events, education and other communication
         of ETC's unique value propositions.
       </p>
-
-      <h2>What is the timeline for applications?</h2>
-      <p>
-        The grants process will be open for applications at some point in
-        January 2023.  That application process will remain open through February,
-        March and April.  Decisions on which grants will be funded will be made in May.
-        Those decisions will be made public and funds disbursed in June.
-      </p>
-
-      <h2>How much funding is available?</h2>
-      <p>
-        Up to $1M USD worth of ETC is available for successful applicants in
-        this first round of grants, which was funded by Antpool ($750K)
-        and ETC Coop ($250K).  Individual grant proposals cannot exceed
-        $50K USD per round.
-      </p>
-
-      <h2>What kind of projects are you looking to fund?</h2>
       <p>
         Here are some ideas of projects which are likely to be well received.
         If you have a proposal which does not quite fit then that is fine too.
@@ -198,6 +239,23 @@
         - Projects supporting self-custody<br/>
         - Projects supporting running your own node<br/>
       </p>
+
+      <h2>What is the timeline for applications?</h2>
+      <p>
+        The grants process will be open for applications at some point in
+        January 2023.  That application process will remain open through February,
+        March and April.  Decisions on which grants will be funded will be made in May.
+        Those decisions will be made public and funds disbursed in June.
+      </p>
+
+      <h2>How much funding is available in Round 1?</h2>
+      <p>
+        Up to $1M USD worth of ETC is available for successful applicants in
+        this first round of grants, which was funded by Antpool ($750K)
+        and ETC Coop ($250K).  Individual grant proposals cannot exceed
+        $50K USD per round.
+      </p>
+
       <br/>
     </div> <!-- /Round 1 -->
 
