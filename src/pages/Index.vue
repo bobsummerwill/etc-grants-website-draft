@@ -198,15 +198,7 @@
         - Projects supporting self-custody<br/>
         - Projects supporting running your own node<br/>
       </p>
-
-      <h2>How do I apply?</h2>
-      <p>
-        <b><a href="https://airtable.com/shr3VMqyLd1HX5ws4">Apply here!</a></b>
-      </p>
-      <p>
-        All ongoing communication will be via this website and
-        on the associated <a href="https://t.me/+HFT390x76c4zYWRh">Telegram</a> channel.
-      </p>
+      <br/>
     </div> <!-- /Round 1 -->
 
     <!-- Commented out original template for the home page, with localization support.
