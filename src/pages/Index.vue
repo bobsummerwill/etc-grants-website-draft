@@ -234,6 +234,43 @@
         this first round of grants, which was funded by Antpool ($750K)
         and ETC Coop ($250K).
       </p>
+      <p>
+        The maximum funding per team for open grants is generally $50,000, unless applying under a community grant (maximum of $10,000) or a premium grant (those over $50,000).
+      </p>
+
+      <table>
+        <tr>
+          <th>Type</th>
+          <th>Funding Maximum</th>
+          <th>Category</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td>Community Grant</td>
+          <td>Up to $10,000</td>
+          <td>Targeted grant or General</td>
+          <td>Grassroots community grants such as hosting presentations, meet-ups, writing articles, starting clubs, translations, supporting aligned non-profits, using ETC within an IRL setting, supporting start-ups in underserved markets, etc.</td>
+        </tr>
+        <tr>
+          <td>Conversion Grant</td>
+          <td>$25,000</td>
+          <td>General</td>
+          <td>A Conversion Grant would be for project teams that have successfully launched a viable product on other blockchains and want to launch the same project on ETC.</td>
+        </tr>
+        <tr>
+          <td>Standard Grant</td>
+          <td>Up to $50,000</td>
+          <td>Targeted grant or General</td>
+          <td>Most grants would fall into this bucket. The team would be expected to be experienced in launching projects, have the relevant technical experience to perform work required, and have a detailed breakdown of the project. These grants can be targeted with an open RFP or open grants.</td>
+        </tr>
+        <tr>
+          <td>Premium Grant</td>
+          <td>Over $50,000</td>
+          <td>Targeted grant or General</td>
+          <td>These grants would only be available to teams with a proven track record of success. The project team would need to provide clear evidence of successful past launches and why funding over the amount of a standard grant, would be needed to meet objectives.  If a team requests this type of grant and the grant committee likes the project, but does not feel it meets the stringent requirements of a premium grant, they may accept the grant under the terms of the Standard grant. The project team would then have the right to accept or decline during the grant approval phase.
+</td>
+        </tr>
+      </table>      
 
       <h2>Ready to go?</h2>
       <p>
