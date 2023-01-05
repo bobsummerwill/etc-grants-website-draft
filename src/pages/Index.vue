@@ -58,21 +58,17 @@
       <h2>How is it going to work?</h2>
 
       <p>
-        The grants process will be open for proposals once every quarter.
-        A timetable will be published for each round showing:
+        The grants process will be organized into different rounds of funding applications,
+        starting in January 2023.  A timetable and details will be announced at the
+        opening of each round, and the details will vary over time as we learn from
+        previous rounds.
       </p>
       <p>
-        - When the process is open for applications.<br/>
-        - Total maximum funding assigned to this round.<br/>
-        - What kind of projects will be welcomed in that round.<br/>
-        - How to apply for a grant and what kind of information you must provide.<br/>
-        - Expectations on likely USD amounts for particular proposals.<br/>
-        - Timelines for applications, for assessments, for payout and for progress reporting.<br/>
+        The first round will on the longer side as we find our feet.
       </p>
-
       <p>
-        Everything will be happening via this website and on the various channels.
-        Grant recipients will funded in $ETC, to aligh incentives with the network.
+        This website and associated social media channels will be used for all coordination
+        around the grants process.
       </p>
     </div>
 
@@ -166,13 +162,6 @@
         proposals explaining how their merits were assessed and how that
         assessment informed the decision-making process for allocation of funds.
       </p>
-      <p>
-        The first status report will be due 6 weeks after the funds are released,
-        so around the end of January.  The final status reports will be due
-        mid-February.  The intention for the program is for everything to be
-        completely transparent so that applicants can see which proposals are
-        having success, likely "market rates" for proposals and so on.
-      </p>
     </div> <!-- /Requirements -->
 
     <div> <!-- Decision making -->
@@ -198,13 +187,6 @@
           sense to move, step-by-step, towards an open DAO structure where all ETC
           token holders have the option to participate in the decision making process.
       </p>
-
-      <h2>Committee members - round 1</h2>
-      <ul>
-        <li>Bitmain (Xmei?)</li>
-        <li>Antpool (Lilian?)</li>
-        <li>ETC Cooperative (Bob?)</li>
-      </ul>
     </div> <!-- /Decision making -->
 
     <hr/>
@@ -212,19 +194,16 @@
       <h1>Round 1 of the ETC Grants Program</h1>
       <h2>What kind of projects are you looking to fund?</h2>
       <p>
-        We are seeking interesting and innovative dapps, along with
-        foundational projects for enriching the ETC Defi ecosystem.  We also
-        welcome proposals related to events, education and other communication
-        of ETC's unique value propositions.
+        Here are some ideas of projects which are likely to be well received,
+        but please just take these as suggestions and feel free to bring your
+        own ideas to the table too.
       </p>
       <p>
-        Here are some ideas of projects which are likely to be well received.
-        If you have a proposal which does not quite fit then that is fine too.
-      </p>
-      <p>
-        - Native stablecoins (DAI, RAI, RICO, other)<br/>
-        - Bringing first-class support for key Ethereum projects to ETC<br/>
-        - Supporting key Ethereum project deployments on ETC<br/>
+        - Unique and compelling ETC-only dapps<br/>
+        - Novel NFT projects (especially for real-world assets)<br/>
+        - Native stablecoins (USDT, USDC, DAI, RAI, RICO, other)<br/>
+        - First-class ETC support in key Ethereum projects<br/>
+        - Deploying and <b>supporting</b> clones of key Ethereum project on ETC<br/>
         - Privacy solutions<br/>
         - Oracle solutions<br/>
         - Lending protocols<br/>
@@ -233,7 +212,7 @@
         - Educational content<br/>
         - Meetups and events<br/>
         - Podcasts<br/>
-        - Safe apps<br/>
+        - <a href="https://help.gnosis-safe.io/en/articles/4022022-what-are-safe-apps">Safe apps</a><br/>
         - MetaMask snaps<br/>
         - Projects supporting self-custody<br/>
         - Projects supporting running your own node<br/>
@@ -242,17 +221,24 @@
       <h2>What is the timeline for applications?</h2>
       <p>
         The grants process will be open for applications at some point in
-        January 2023.  That application process will remain open through February,
-        March and April.  Decisions on which grants will be funded will be made in May.
-        Those decisions will be made public and funds disbursed in June.
+        January 2023.  That application process will remain open through February
+        and March 2023.  Decisions on which grants will be funded will be made in April 2023.
+      </p>
+      <p>
+        The final decisions will be announced and initial funds disbursed in May 2023.
       </p>
 
       <h2>How much funding is available in Round 1?</h2>
       <p>
         Up to $1M USD worth of ETC is available for successful applicants in
         this first round of grants, which was funded by Antpool ($750K)
-        and ETC Coop ($250K).  Individual grant proposals cannot exceed
-        $50K USD per round.
+        and ETC Coop ($250K).
+      </p>
+
+      <h2>Ready to go?</h2>
+      <p>
+        Bring your best ideas!
+        <b><a :href="$t('tldr.apply-url')">{{ $t("tldr.apply-text") }}</a></b>
       </p>
 
       <br/>
@@ -292,6 +278,13 @@
         >
         |
         <a
+          href="https://etcgrantsdao.notion.site/Wechat-group-b747ef7d2321459485aecbcbf382c6ab"
+          target="_blank"
+          rel="noopener"
+          >WeChat</a
+        >
+        |
+        <a
           href="https://twitter.com/etcgrantsdao"
           target="_blank"
           rel="noopener"
@@ -306,7 +299,6 @@
         >
       </p>
     </div> <!-- /Footer -->
-
   </Layout>
 </template>
 
