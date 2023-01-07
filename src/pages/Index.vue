@@ -27,7 +27,7 @@
         {{ $t('overview.subheading')}}
       </h2>
       <p>
-        The ETC Grants program was announced in November 2022 to support the growth
+        The ETC Grants program was first announced <a href="https://etccooperative.org/posts/2022-11-16-outline-of-xmei-lins-and-bob-summerwills-speeches-at-bitmain-wdsm-global-2022-en">at the WDMS conference</a> in November 2022 to support the growth
         of the <a href="https://ethereumclassic.org">Ethereum Classic</a> ecosystem.
       </p>
       <p>
@@ -66,8 +66,7 @@
       </p>
       <p>
         The <a href="https://etccooperative.org">ETC Cooperative</a> had $250K USD <a href="https://etccooperative.org/posts/2022-04-12-2021-retrospective-2022-budget-roadmap">budgeted</a> for grants during calendar year
-        2022 and will be contributing those funds into the program as well. Additional funds
-        will be allocated by the Cooperative each calendar year.
+        2022 and will be contributing those funds into the program as well.
       </p>
     </div> <!-- /Overview -->
 
@@ -76,69 +75,61 @@
 
     <div> <!-- Categories -->
       <h1>
-        Grants Streams
+        Grants categories
       </h1>
+
+      <p>
+        The maximum funding per team for grants is generally $50,000, unless applying under a community grant (maximum of $10,000) or a premium grant (those over $50,000).
+      </p>
 
       <h2>
         General grants
       </h2>
 
       <p>
-        General grants are open to all and any teams looking to build their projects on ETC. These grants do not have an open request by the ETC grant committee, but can prove they would provide value to the ETC ecosystem. There are suggested topics and ideas, on the ETC grants website, but without formal requests for proposals.
-      </p>
-
-      <p>
-        The maximum funding per team for open grants is generally $50,000, unless applying under a community grant (maximum of $10,000) or a premium grant (those over $50,000).
+        General grants are open to all and any teams looking to build their projects on ETC,
+        with anything they would like to propose.  There is a list of suggestions, but all
+        options are the on the table.  We welcome your creative suggestions on how to add value.
       </p>
 
       <h2>Targeted grants</h2>
 
       <p>
-        Targeted grants are those that have been selected by the grant selection committee and community as priority items and growth areas and have an open request. These items may or may not change each grant round, as priorities change and teams launch their projects. There may not be any open requests, at the beginning of a new round. In that case, General grants should be selected for the category.
+        Targeted grants are those that have been selected by the grant selection committee and community as priority items and growth areas and which have an open request. These items may or may not change each grant round, as priorities change and teams launch their projects.
       </p>
-
       <p>
-        The maximum funding per team for targeted grants is generally $50,000, however teams can apply for premium grants which are over $50,000, if they meet the criteria. 
+        There may not be any open requests at the beginning of a new round. In that case, general grants should be selected for the category.
       </p>
 
-      <p>
-        As part of the targeted grants, there may also be an open request for critical path items, where the ETC grants team will select the companies or teams to submit their application for a specific and defined piece of work. These projects would be those considered critical to moving ETC forward and would pave the way for future growth. 
-      </p>
-
-      <h1>
+      <h2>
         Types of grant
-      </h1>
+      </h2>
 
       <p>
         <table>
           <tr>
             <th>Type</th>
             <th>Funding Maximum</th>
-            <th>Category</th>
             <th>Description</th>
           </tr>
           <tr>
             <td>Community Grant</td>
             <td>Up to $10,000</td>
-            <td>Targeted grant or General</td>
             <td>Grassroots community grants such as hosting presentations, meet-ups, writing articles, starting clubs, translations, supporting aligned non-profits, using ETC within an IRL setting, supporting start-ups in underserved markets, etc.</td>
           </tr>
           <tr>
             <td>Conversion Grant</td>
             <td>$25,000</td>
-            <td>General</td>
             <td>A Conversion Grant would be for project teams that have successfully launched a viable product on other blockchains and want to launch the same project on ETC.</td>
           </tr>
           <tr>
             <td>Standard Grant</td>
             <td>Up to $50,000</td>
-            <td>Targeted grant or General</td>
             <td>Most grants would fall into this bucket. The team would be expected to be experienced in launching projects, have the relevant technical experience to perform work required, and have a detailed breakdown of the project. These grants can be targeted with an open RFP or open grants.</td>
           </tr>
           <tr>
             <td>Premium Grant</td>
             <td>Over $50,000</td>
-            <td>Targeted grant or General</td>
             <td>These grants would only be available to teams with a proven track record of success. The project team would need to provide clear evidence of successful past launches and why funding over the amount of a standard grant, would be needed to meet objectives.  If a team requests this type of grant and the grant committee likes the project, but does not feel it meets the stringent requirements of a premium grant, they may accept the grant under the terms of the Standard grant. The project team would then have the right to accept or decline during the grant approval phase.
             </td>
           </tr>
@@ -162,7 +153,7 @@
         The entire ETC Grants DAO process has been built with equal access
         in Chinese and English as a primary requirement.  This website,
         application process, display of proposals and all other elements
-        of the process will be visible in both languages.  We really want
+        of the process will be visible in both languages.  We want
         to open up accessibility to Ethereum Classic for the Chinese-speaking
         community, and welcome applications from that demographic, even if
         the outputs of those proposals are only applicable to a Chinese-speaking
@@ -174,6 +165,12 @@
         and visa-versa so that speakers of either language are able to see
         all of the applications.  The feedback from the Committee on projects
         and final fund assignments will also be available in both languages.
+      </p>
+      <p>
+        <i>
+          (ETC Cooperative have been publishing all content in both English and Chinese
+          since November 2022.)
+        </i>
       </p>
 
       <h2>
@@ -202,16 +199,21 @@
       </p>
       <p>
         Funding will not be provided for projects seeking to build proprietary
-        solutions.  The copyright will remain with the authors, but licensing
+        solutions.
+      </p>
+      <p>        
+        The copyright for these projects will remain with the authors, but licensing
         must be permissive and patents must not be filed on the outputs of
-        these projects.  Permissive licensing maximizes the number of ways in
-        which the results of the projects can be used while protecting against
-        patent trolling and lack of accreditation with these specific licenses
-        choices.
+        these projects.
+      </p>
+      <p>
+        Weaker licenses like MIT and BSD provide no protection against submarine
+        patents and stronger copyleft licenses like GPLv3 constrain the use
+        of the code in ways which reduce the value we are delivering.
       </p>
 
       <h2>
-        Applicants will be subject to KYC
+        Applicants will be subject to KYC/AML checks
       </h2>
       
       <p>
@@ -314,11 +316,11 @@
       </h3>
 
       <p>
-        Grant applications should be submitted via the site (Airtable). The application will outline all relevant details each team or individual should include. People should enter as much information as possible about their project, providing clear milestones and deliverables. 
+        Grant applications should be submitted <b><a :href="$t('tldr.apply-url')">via the website</a></b>.
       </p>
 
-      <p>
-        In the grant application, teams will specify which open request they are applying for or if they are applying under the general grant framework.
+      <p>       
+        The application will outline all relevant details each team or individual should include. People should enter as much information as possible about their project, providing clear milestones and deliverables. 
       </p>
 
       <p>
@@ -330,27 +332,25 @@
       </h3>
 
       <p>
-        Currently, the ETC Grant committee is made up of the following:
+        Decisions on the initial round of grants will be made by a committee
+        appointed by Bitmain, Antpool and ETC Cooperative, as the initial donors into this
+        grants process.  If further donors join the process, they will be invited
+        to participate in the decision making process as well.
       </p>
       <p>
-        <ul>
-          <li>
-            Representative from AntPool
-          </li>
-          <li>
-            Representative from Bitmain Xmei
-          </li>
-          <li>
-            Representative from ETC Coop (Bob Summerwill, Executive Director)
-          </li>
-        </ul>
+        There is no specific plan to open up the decision making progress to the
+        broader ETC community at the time of writing.  Longer term it <i>might</i> make
+        sense to move, step-by-step, towards an open DAO structure where all ETC
+        token holders have the option to participate in the decision making process.
+      </p>
+      <p>
+        Voting will be recorded using Snapshot (see <a href="https://snapshot.org/#/etcgrantsdao.eth">etcgrantsdao.eth</a>),
+        in a similar manner to the existing Snapshot instance used
+        for <a href="https://snapshot.org/#/litecoin-antpool-dao.eth">Litecoin/Antpool voting</a>.
       </p>
 
       <p>
-        In the future, once the ecosystem has grown there will be (number xx) of rotating grant committee seats, that will take part in the grant selection process. This will both encourage more diverse ecosystem engagement but also provide an incentive for projects based on their organic growth, to take part in further growing the ecosystem. 
-      </p>
-      <p>
-        During the evaluation and technical review the grant committee will look at all the information submitted by each team and evaluate the application. Please note that the voting for the projects will be done by the members listed above, but the technical evaluation of the projects will be done by various stakeholders, with several members of the ETC Cooperative’s technical staff taking part. This is to ensure that there is sufficient technical review of all applications.
+        During the evaluation and technical review the grant committee will look at all the information submitted by each team and evaluate the application. Please note that the voting for the projects will be done by the members listed above, but the technical evaluation of the projects will be done by a broader set of individuals, including the ETC core developers. This is to ensure that there is sufficient technical review of all applications.
       </p>
       <p>
         For each open request there may be grants awarded to multiple teams, one team, or no teams if none of the submissions meet the standards required. 
@@ -364,19 +364,16 @@
             The team has proven experience and strong technical background.
           </li>
           <li>
-            Representative from Bitmain Xmei
-          </li>
-          <li>
             The team can demonstrate that they have a business model that will sustain the project long term. If the project is an open source public good and thus there are no financial incentives for the team or to sustain the project, the application should be clear on how much annual funding would be required to maintain the project. Funding beyond the initial grant, is not guaranteed and the team would have to apply for grants in subsequent periods. 
           </li>
           <li>
-            Your application clearly presents milestones and how to evaluate whether KPI’s have been met or not. 
+            The application clearly presents milestones and how to evaluate whether KPI’s have been met or not. 
           </li>
           <li>
-            Your project fills an obvious void in the current ecosystem.
+            The project fills an obvious void in the current ecosystem.
           </li>
           <li>
-            Your project provides clear value to the ETC ecosystem.
+            The project provides clear value to the ETC ecosystem.
           </li>
         </ul>
       </p>
@@ -386,16 +383,16 @@
       <p>
         <ul>
           <li>
-            Project is not aligned with ETC’s values.
+            The project is not aligned with ETC’s values.
           </li>
           <li>
-            Project doesn’t have a way to sustain itself after grant funding has been fully utilized (if it is not an open source public good type grant).
+            The project doesn’t have a way to sustain itself after grant funding has been fully utilized (if it is not an open source public good type grant).
           </li>
           <li>
-            Project team does not appear to have requisite expertise to accomplish project goals.
+            The project team does not appear to have requisite expertise to accomplish project goals.
           </li>
           <li>
-            The cost/benefit of the project appears negative. 
+            The cost/benefit of the project is insufficient. 
           </li>
         </ul>
       </p>
@@ -415,11 +412,11 @@
       </p>
 
       <h3>
-        Step 5: Due diligence and AML/KYC requirements
+        Step 5: Due diligence and KYC/AML requirements
       </h3>
 
       <p>
-        If your grant application has been accepted, you will go through due diligence and sign your formal agreement, which includes KYC/KYB required information. This information will be obtained by a third party independent (Trulioo) company to comply with all AML and KYC requirements. The final agreement will specify terms of the contract and required milestones to release milestone payments. Agreements would be signed by all relevant parties. 
+        If your grant application has been accepted, you will go through due diligence and sign your formal agreement, which includes KYC/KYB required information. This information will be obtained by a third party independent company to comply with all AML and KYC requirements. The final agreement will specify terms of the contract and required milestones to release milestone payments. Agreements would be signed by all relevant parties. 
       </p>
 
       <p>
@@ -478,38 +475,10 @@
     </div> <!-- /Grants process -->
 
     <hr/>
-    <a id="decisionmaking"/>
-
-    <div> <!-- Decision making -->
-      <h1>Decision making for the ETC Grants Program</h1>
-
-      <h2>Who will be making the decisions?</h2>
-
-      <p>
-          Decisions on the initial round of grants will be made by a committee
-          appointed by Bitmain, Antpool and ETC Cooperative, as the initial donors into this
-          grants process.  If further donors join the process, they will be invited
-          to participate in the decision making process as well.
-        </p>
-        <p>
-          Voting will be recorded using Snapshot (see <a href="https://snapshot.org/#/etcgrantsdao.eth">etcgrantsdao.eth</a>),
-          in a similar manner to the existing Snapshot instance used
-          for <a href="https://snapshot.org/#/litecoin-antpool-dao.eth">Litecoin/Antpool voting</a>.
-        </p>
-        <p>
-          There is no specific plan to open up the decision making progress to the
-          broader ETC community at the time of writing.  Longer term it <i>might</i> make
-          sense to move, step-by-step, towards an open DAO structure where all ETC
-          token holders have the option to participate in the decision making process.
-      </p>
-    </div> <!-- /Decision making -->
-
-    <hr/>
     <a id="round1"/>
 
     <div> <!-- Round 1 -->
-      <h1>Round 1 of the ETC Grants Program</h1>
-      <h2>What kind of projects are you looking to fund?</h2>
+      <h1>What kind of projects are you looking to fund?</h1>
       <p>
         Here are some ideas of projects which are likely to be well received,
         but please just take these as suggestions and feel free to bring your
@@ -537,8 +506,8 @@
 
       <h2>What is the timeline for applications?</h2>
       <p>
-        The grants process will be open for applications at some point in
-        January 2023.  That application process will remain open through February
+        The grants process will be open for applications Thursday 19th January 2023.
+        The application process will remain open through February
         and March 2023.  Decisions on which grants will be funded will be made in April 2023.
       </p>
       <p>
